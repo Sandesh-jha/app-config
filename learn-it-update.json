@@ -1,6 +1,6 @@
 {
   "update_enabled": true,
-  "force_update": false,
+  "force_update": true,
   "target_version": 2,
   "title": "Update Available",
   "message": "Please update Learn IT",

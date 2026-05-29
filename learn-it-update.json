@@ -1,0 +1,8 @@
+{
+  "update_enabled": true,
+  "force_update": false,
+  "target_version": 1,
+  "title": "New Update Available",
+  "message": "A new version is available.",
+  "apk_url": "https://your-apk-link.apk"
+}
